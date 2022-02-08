@@ -5,6 +5,7 @@ function mostrar(e) {
         e.style.color = "rgb(225, 225, 0)";
         document.body.style.background = 'rgb(10, 10, 10)';
         document.querySelector('#userName').style.color = '#fff';
+        document.querySelector('#userBio').style.color = '#c0c0c0';
 
         let links = document.querySelectorAll('.link');
         // Pega apenas o primeiro do array
@@ -28,6 +29,7 @@ function mostrar(e) {
         e.style.color = "#585858";
         document.body.style.background = 'rgb(243, 242, 242)';
         document.querySelector('#userName').style.color = 'rgb(99, 99, 99)';
+        document.querySelector('#userBio').style.color = 'rgb(99, 99, 99)';
 
         let links = document.querySelectorAll('.link');
         // Pega apenas o primeiro do array

@@ -29,6 +29,17 @@ body {
     text-decoration: none;
 }
 
+#userBio {
+    color: rgb(99, 99, 99);
+    font-size: 0.8rem;
+    line-height: 1.30;
+    display: block;
+    font-family: sans, sans-serif, arial;
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+}
+
 #links {
     max-width: 675px;
     width: auto;
